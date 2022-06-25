@@ -1,0 +1,5 @@
+cat .gitignore 
+*.db
+*.log
+/target 
+/bin
